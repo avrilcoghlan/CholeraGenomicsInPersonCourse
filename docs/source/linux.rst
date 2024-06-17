@@ -1,5 +1,5 @@
-*Vibrio cholerae* genomic data
-==============================
+Introduction to Linux
+=====================
 
 In this section, we will describe:
 
