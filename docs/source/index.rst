@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the Cholera Genomics In-Person Course Documentation!
+===============================================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
